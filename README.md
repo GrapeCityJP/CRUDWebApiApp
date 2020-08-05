@@ -7,7 +7,7 @@ https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/no
 
 # 実行手順
 サンプルプロジェクトを開き、`appsettings.json`の`Connection`に作成したNorthwindデータベースの接続文字列を設定します。
-
+![接続文字列](https://github.com/GrapeCityJP/CRUDWebApiApp/blob/image/connection.png)
 `launchSettings.json`を開き、`applicationUrl`を環境にあわせて変更します。
 
 実行します。
